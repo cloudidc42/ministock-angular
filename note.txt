@@ -1,0 +1,6 @@
+git remote show origin
+
+---
+git remote set-url origin https://github.com/cloudidc42/ministock-angular.git
+
+git add -A
